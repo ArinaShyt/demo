@@ -1,4 +1,4 @@
-module com.example.demo {
+module com.example.exam {
     requires javafx.controls;
     requires javafx.fxml;
     requires java.persistence;
@@ -6,8 +6,8 @@ module com.example.demo {
     requires java.sql;
     requires org.hibernate.orm.core;
 
-    opens com.example.demo to javafx.fxml;
-    opens com.example.demo.DB;
-    exports com.example.demo;
-    exports com.example.demo.DB;
+    opens com.example.exam to javafx.fxml;
+    opens com.example.exam.DB;
+    exports com.example.exam;
+    exports com.example.exam.DB;
 }

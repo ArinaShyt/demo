@@ -1,4 +1,4 @@
-package com.example.demo.DB;
+package com.example.exam.DB;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;

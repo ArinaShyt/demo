@@ -1,4 +1,4 @@
-package com.example.demo.DB;
+package com.example.exam.DB;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

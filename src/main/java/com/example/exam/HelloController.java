@@ -1,14 +1,12 @@
-package com.example.demo;
+package com.example.exam;
 
-import com.example.demo.DB.Interface;
-import com.example.demo.DB.User;
+import com.example.exam.DB.Interface;
+import com.example.exam.DB.User;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
-
-import java.io.IOException;
 
 public class HelloController {
     public PasswordField password;

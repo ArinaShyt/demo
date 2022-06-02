@@ -4,7 +4,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.HelloController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.exam.HelloController">
    <children>
       <Button layoutX="279.0" layoutY="297.0" mnemonicParsing="false" onAction="#authorization" style="-fx-background-color: green;" text="Вход" />
       <Text layoutX="221.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Авторизация" wrappingWidth="158.93670654296875">

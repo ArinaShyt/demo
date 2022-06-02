@@ -1,4 +1,4 @@
-package com.example.demo.DB;
+package com.example.exam.DB;
 
 public class Interface {
 
